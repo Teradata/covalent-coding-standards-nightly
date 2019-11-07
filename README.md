@@ -1,1 +1,0 @@
-## Covalent Coding Standards Nightly
